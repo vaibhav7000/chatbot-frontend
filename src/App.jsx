@@ -129,7 +129,7 @@ function App() {
         </section>
 
         <section className='main'>
-          <h1>Fitness Chatbot</h1>
+          <h1>Wellness Chatbot</h1>
           {
             <div className='current-chat'>
             {
